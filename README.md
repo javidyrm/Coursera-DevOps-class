@@ -1,1 +1,1 @@
-# DevOps-training-class
+Coursera-DevOps-class
